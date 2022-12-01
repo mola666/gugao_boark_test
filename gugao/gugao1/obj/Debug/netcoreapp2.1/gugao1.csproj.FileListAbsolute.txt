@@ -1,0 +1,11 @@
+D:\gugao-board\gugao\gugao1\obj\Debug\netcoreapp2.1\gugao1.csproj.CoreCompileInputs.cache
+D:\gugao-board\gugao\gugao1\obj\Debug\netcoreapp2.1\gugao1.AssemblyInfoInputs.cache
+D:\gugao-board\gugao\gugao1\obj\Debug\netcoreapp2.1\gugao1.AssemblyInfo.cs
+D:\gugao-board\gugao\gugao1\bin\Debug\netcoreapp2.1\gugao1.deps.json
+D:\gugao-board\gugao\gugao1\bin\Debug\netcoreapp2.1\gugao1.runtimeconfig.json
+D:\gugao-board\gugao\gugao1\bin\Debug\netcoreapp2.1\gugao1.runtimeconfig.dev.json
+D:\gugao-board\gugao\gugao1\bin\Debug\netcoreapp2.1\gugao1.dll
+D:\gugao-board\gugao\gugao1\bin\Debug\netcoreapp2.1\gugao1.pdb
+D:\gugao-board\gugao\gugao1\obj\Debug\netcoreapp2.1\gugao1.dll
+D:\gugao-board\gugao\gugao1\obj\Debug\netcoreapp2.1\gugao1.pdb
+D:\gugao-board\gugao\gugao1\obj\Debug\netcoreapp2.1\gugao1.csprojAssemblyReference.cache
